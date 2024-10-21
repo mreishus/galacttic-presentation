@@ -1,0 +1,29 @@
+:root {
+  --r-background-color: #000000;
+  --r-main-font: 'Inter', sans-serif;
+  --r-main-font-size: 36px;
+  --r-main-color: #ffffff;
+  --r-block-margin: 1rem;
+  --r-heading-margin: 1.5rem;
+  --r-heading-font: 'Orbitron', sans-serif;
+  --r-heading-color: #1e90ff;
+  --r-heading-line-height: 1.2;
+  --r-heading-letter-spacing: 0.05em;
+  --r-heading-text-transform: uppercase;
+  --r-heading-text-shadow: 2px 2px 8px #0000ff;
+  --r-heading-font-weight: 700;
+  --r-heading1-text-shadow: 3px 3px 10px #0000ff;
+  --r-heading1-size: 3.5rem;
+  --r-heading2-size: 3rem;
+  --r-heading3-size: 2.75rem;
+  --r-heading4-size: 2.5rem;
+  --r-code-font: 'Berkeley Mono', 'Courier New', monospace;
+  --r-link-color: #1e90ff;
+  --r-link-color-dark: #104e8b;
+  --r-link-color-hover: #add8e6;
+  --r-selection-background-color: #1e90ff;
+  --r-selection-color: #ffffff;
+  --r-overlay-element-bg-color: rgba(0, 0, 0, 0.8);
+  --r-overlay-element-fg-color: #ffffff;
+}
+

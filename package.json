@@ -1,0 +1,14 @@
+{
+  "name": "galacttic-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md presentation.md -w --css style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "reveal-md": "^6.1.3"
+  }
+}
